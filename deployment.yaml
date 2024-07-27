@@ -16,6 +16,6 @@ app: custom
 spec:
 containers:
 - name: custom
-image: docker6767/image
+image: adeobhankar/image
 ports:
 - containerPort: 80
