@@ -18,4 +18,4 @@ containers:
 - name: custom
 image: docker6767/image
 ports:
-- containerPort: 30008
+- containerPort: 80
